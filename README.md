@@ -22,5 +22,5 @@ chatgpt-cpp-release (ИСХОДНИКИ)      [СКАЧАТЬ](https://vk.cc/cYD
 GPT_BOT_17924314 (БОТ ДЛЯ ANDROID)    [СКАЧАТЬ](https://vk.cc/cYDgyT)
 
 
-TgNinja - Облачный софт (сервис) для продвижения Telegram-каналов и чатов.  [ Регистрация] (https://vk.cc/cYmiMz)
-MaxTraffer - первый облачный софт для инвайтинга в мессенджере MAX [ Регистрация] (https://vk.cc/cYmhFA)
+TgNinja - Облачный софт (сервис) для продвижения Telegram-каналов и чатов.  [Регистрация](https://vk.cc/cYmiMz)
+MaxTraffer - первый облачный софт для инвайтинга в мессенджере MAX [Регистрация](https://vk.cc/cYmhFA)
